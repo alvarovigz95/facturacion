@@ -1,4 +1,4 @@
-# Inslalaciones
+# Instalaciones
 1. Instalar git
     https://git-scm.com/
 2. Instalar Visual Studio Code
@@ -11,8 +11,7 @@
 6. npm init -y
 7. Express (Framework de Node)
    npm install express
-8. crear el archivo index.js
-   copiar el codigo
+8. crear el archivo index.js y copiar el codigo siguiente
    ```javascript
     const express = require('express')
     const app = express()
@@ -34,11 +33,11 @@
     app.listen(port, () => {
         console.log('Servidor corriendo en el puerto 3000')
     })
-
+    ```
 9. crear la carpeta public
 10. crear dentro de la carpeta public el archivo index.html
-   ```html
-   <!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html lang="es">
     <head>
         <meta charset="UTF-8">
@@ -51,9 +50,10 @@
         <button class="btn btn-outline-primary" >Sitio</button>
     </body>
     </html>
+    ``` 
 11. crear dentro de la carpeta public el archivo admin.html
-   ```html
-   <!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html lang="es">
     <head>
         <meta charset="UTF-8">
@@ -65,7 +65,7 @@
         <h1>Admin</h1>
     </body>
     </html>
-
+    ```
 # Documentacion
 1. Node
    https://nodejs.org/es/docs/
