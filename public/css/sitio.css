@@ -1,0 +1,14 @@
+/*
+selector{
+    atributo:valor;
+}
+. = clase
+# = id
+
+*/
+body{
+    background-image: url(../img/fondo.jpg);
+    background-position: left;
+    background-size: cover;
+    background-attachment: fixed;
+}
