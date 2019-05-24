@@ -1,16 +1,16 @@
 # Instalaciones
 1. Instalar git
-    https://git-scm.com/
+   1. https://git-scm.com/
 2. Instalar Visual Studio Code
-    https://code.visualstudio.com/
+   1. https://code.visualstudio.com/
 3. Nodejs
-   https://nodejs.org/en/
-   Verificar con: node --version
+   1. https://nodejs.org/en/
+   2. Verificar con: node --version
 4. Crear la carpeta de la aplicacion
 5. con cd de cmd ir a la carpeta de la aplicacion
 6. npm init -y
 7. Express (Framework de Node)
-   npm install express
+   1. npm install express
 8. crear el archivo index.js y copiar el codigo siguiente
    ```javascript
     const express = require('express')
@@ -66,6 +66,12 @@
     </body>
     </html>
     ```
+12. instalar nodemon (Monitorea el servidor por cambios)
+    1. npm install -g nodemon
+13. instalar postgresql
+    1. https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+14. instalar pg para node
+    1. npm install pg
 # Documentacion
 1. Node
    https://nodejs.org/es/docs/
@@ -73,13 +79,15 @@
    http://expressjs.com/
 3. Git
    https://git-scm.com/docs/git
-
+4. Postgresql
+   1. https://www.postgresql.org/docs/manuals/
+   2. https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8 
 # Videos
 1. Node 
-   https://www.youtube.com/watch?v=fBNz5xF-Kx4
-   https://www.youtube.com/watch?v=BhvLIzVL8_o&t=3550s
+   1. https://www.youtube.com/watch?v=fBNz5xF-Kx4
+   2. https://www.youtube.com/watch?v=BhvLIzVL8_o&t=3550s
 2. Express (Framework de Node)
-   https://www.youtube.com/watch?v=L72fhGm1tfE&t=10s
-   https://www.youtube.com/watch?v=794Q71KVw1k&t=537s
+   1. https://www.youtube.com/watch?v=L72fhGm1tfE&t=10s
+   2. https://www.youtube.com/watch?v=794Q71KVw1k&t=537s
 3. Git
-   https://www.youtube.com/watch?v=zH3I1DZNovk&list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId&index=1
+   1. https://www.youtube.com/watch?v=zH3I1DZNovk&list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId&index=1
