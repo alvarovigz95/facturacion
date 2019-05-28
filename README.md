@@ -96,3 +96,5 @@
    2. https://www.youtube.com/watch?v=794Q71KVw1k&t=537s
 3. Git
    1. https://www.youtube.com/watch?v=zH3I1DZNovk&list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId&index=1
+4. Postgres
+   1. https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1
