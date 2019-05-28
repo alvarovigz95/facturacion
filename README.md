@@ -72,6 +72,11 @@
     1. https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 14. instalar pg para node
     1. npm install pg
+15. instalar axios
+    1. https://github.com/axios/axios
+    ```html
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    ```
 # Documentacion
 1. Node
    https://nodejs.org/es/docs/

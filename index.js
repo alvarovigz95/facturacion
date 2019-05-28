@@ -75,6 +75,18 @@ app.delete('/api/usuarios/:id', (req, res) => {
     })
 })
 
+// Login
+app.get('/api/login/:usuario/:clave', (req, res) => {
+  let usuario = req.params.usuario;
+  let clave = req.params.clave;
+  pool.query(`SELECT * FROM usuarios WHERE usuario_usuario='${usuario}' and clave_usuario='${clave}'`, (error, results) => {
+      if (error) {
+        throw error
+      }
+      res.status(200).json(results.rows)
+  })
+})
+
 app.listen(port, () => {
     console.log('Servidor corriendo en el puerto 3000')
 })
