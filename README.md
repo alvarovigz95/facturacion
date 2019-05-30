@@ -98,3 +98,6 @@
    1. https://www.youtube.com/watch?v=zH3I1DZNovk&list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId&index=1
 4. Postgres
    1. https://www.youtube.com/watch?v=jxIEDKzGrOs&list=PL8gxzfBmzgex2nuVanqvxoTXTPovVSwi2&index=1
+5. Javascript
+   1. https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2807s
+   
